@@ -118,7 +118,7 @@ while True:
     
     print('data sent at:')
     print(datetime.datetime.now().time())
-    #os.remove('awsdata.csv')
+    os.remove('awsdata.csv')
     
     #wait for another hour
     time.sleep(60*60)
