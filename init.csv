@@ -1,0 +1,2 @@
+TIMESTAMP,RECORD,JobID,StationID,WSpd_Min,WSpd_Max,WSpd_Avg,WSpd_Std,WDir_Avg,WDir_Std,AirTemp_Avg,RH,DewPointTemp_Avg,SlrW_Avg,SlrMJ_Tot,Rain_Tot,BPress_Avg,QFE_Avg,QNH_Avg,QNH_ICAO_Avg,BPressUnits,BPress_Success_Tot,Sun_Hours_Tot,LoggerBattery_Avg,ScanCount
+2023-07-19 16:00:00,10081,ZimMet_J5013,0-716-2-BelvedereAWS,0,3.43,1.128,0.671,208.1,35.14,22.75,21.16,-0.595,269.922,0.1619532,0,856.9728,857.1213,1024.289,1023.838,hPa,600,0.1666667,13.12,600
